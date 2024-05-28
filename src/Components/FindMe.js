@@ -18,7 +18,7 @@ const FindMe = () => {
           flexDirection: "column",
           justifyContent: "start",
           alignItems: "center",
-          height: "13rem",
+          height: "16rem",
           width: "29rem",
           marginTop: "10px",
           marginBottom: "10px",
