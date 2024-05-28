@@ -12,11 +12,11 @@ const ProfileCard = () => {
   return (
     <div>
       <Logo />
-      <div className="flex w-[29rem] h-[8.5rem] mt-20 rounded-xl" style={{backgroundColor: '#CED4FF'}}>
+      <div className="flex w-[29rem] h-[11.5rem] mt-20 rounded-xl" style={{backgroundColor: '#CED4FF'}}>
         <img
           src={photo}
           alt=""
-          className="h-[185px] w-[132px] object-cover justify-center rounded-l-xl"
+          className="h-[150px] w-[132px] object-cover justify-center rounded-l-xl"
         />
         <div className="h-[185px] w-[100%] mt-12 ml-10 ">
            <span className="name">Aman Yadav</span>
