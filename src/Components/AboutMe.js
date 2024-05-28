@@ -13,7 +13,7 @@ const AboutMe = () => {
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
-          height: "15.5rem",
+          height: "18.5rem",
           width: "29rem",
           marginTop: "10px",
           marginBottom: "10px",
