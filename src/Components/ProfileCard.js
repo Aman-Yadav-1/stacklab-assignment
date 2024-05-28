@@ -12,7 +12,7 @@ const ProfileCard = () => {
   return (
     <div>
       <Logo />
-      <div className="flex w-[29rem] h-[11.5rem] mt-20 rounded-xl" style={{backgroundColor: '#CED4FF'}}>
+      <div className="flex w-[29rem] h-[8.5rem] mt-20 rounded-xl" style={{backgroundColor: '#CED4FF'}}>
         <img
           src={photo}
           alt=""
